@@ -1,0 +1,26 @@
+.container{
+	width: 700px;
+	margin: auto;
+}
+
+.center{
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+}
+
+.img1{
+	width: 250px;
+	height: 200px;
+	float: left;
+	margin: 11px;
+}
+
+.img2{
+	text-align: center;
+	width: 250px;
+	height: 250px;
+}
+
