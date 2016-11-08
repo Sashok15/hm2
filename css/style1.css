@@ -1,3 +1,20 @@
+td, th, tr{
+	border: 1px solid black;
+}
 .table{
-	padding-bottom: 30px;
+	border: 1px solid black; 
+	width: 100%;
+}
+.table1{
+	border-width: : 1px;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+.table2{
+	border: 2px solid grey;
+	width: 50%;
+	margin: auto;
+	align-items: center;
+
 }
